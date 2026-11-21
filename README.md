@@ -19,7 +19,7 @@ I build **AI-powered security tools** and **Web3 infrastructure** for developers
 Currently focused on:
 - 🔍 Hunting smart contract vulnerabilities on **Immunefi** (Solana + EVM)
 - 🌙 Building **Luna Agent** — autonomous AI copilot for Web3 security research
-- 🛡️ Developing **BagsShield** — security infrastructure for DeFi protocols
+- 🛡️ Developing **ShieldCorp** — security infrastructure for DeFi protocols
 
 ---
 
@@ -37,7 +37,7 @@ Luna is an Electron desktop app backed by a FastAPI agent loop. It routes tasks 
 
 ---
 
-## 🛡️ BagsShield
+## 🛡️ ShieldCorp
 
 > *Security-first infrastructure for DeFi protocols on Solana*
 
